@@ -2,7 +2,7 @@
 
 # NAME: Daniel Stiglitz
 # DATE: 2/27/25
-# BRIEF DESCRIPTION:  Glue names together 
+# BRIEF DESCRIPTION:  Glue names together using strings
 
 
 
