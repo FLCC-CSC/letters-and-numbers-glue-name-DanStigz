@@ -1,8 +1,8 @@
 # FILE NAME - glue_name.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Daniel Stiglitz
+# DATE: 2/27/25
+# BRIEF DESCRIPTION:  Glue names together 
 
 
 
@@ -17,7 +17,13 @@
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
     
-    
+first= input('first name')
+last= input('last name')
+
+print('Enter First Name: ',first)
+print('Enter Last Name: ',last)
+
+print ('Hi, ', first, last)   
     
     
     
