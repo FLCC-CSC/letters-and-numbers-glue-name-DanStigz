@@ -20,10 +20,9 @@
 first= input('first name')
 last= input('last name')
 
-print('Enter First Name: ',first)
-print('Enter Last Name: ',last)
-
-print ('Hi, ', first, last)   
+print('Enter first name: ',first)
+print('Enter last name: ',last)
+print ('Hi,', first, last)   
     
     
     
