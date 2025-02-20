@@ -23,7 +23,7 @@ last= input('Enter last name: ')
 print('Enter first name: ',first)
 print('Enter last name: ',last)
 
-print (f'Hi,{first} {last}')
+print (f'Hi, {first} {last}')
 
     
     
