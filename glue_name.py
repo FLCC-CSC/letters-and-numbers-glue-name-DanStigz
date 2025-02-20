@@ -17,13 +17,15 @@
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
     
-first= input('first name')
-last= input('last name')
+first= input('Enter first name:')
+last= input('Enter last name:')
 
 print('Enter first name:',first)
 print('Enter last name:',last)
 
 print ('Hi,', first, last)
+
+
     
     
     
