@@ -20,10 +20,9 @@
 first_name= input('Enter first name: ')
 last_name= input('Enter last name: ')
 
-print('Enter first name: ',first_name)
-print('Enter last name: ',last_name)
 
 print (f'Hi, {first_name} {last_name}')
+
 
 
     
