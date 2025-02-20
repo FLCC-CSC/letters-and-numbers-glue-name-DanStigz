@@ -79,6 +79,8 @@ Hi, Lisa Simpson, esquire
    your response to Python. It might be a lesson in time management, a lesson
    using CodeGrade, or something else.
 
+ The way I do this is different and the editor is different, so it is all a good learning curve that I am getting through.
+   I also finally figured out how to organize my folders and files in Git, so that's a win
 
 
 
