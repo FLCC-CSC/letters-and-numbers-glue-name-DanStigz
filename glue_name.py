@@ -17,16 +17,14 @@
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
     
-first= input('first')
-last= input('last')
+first= input('Enter first name: ')
+last= input('Enter last name: ')
 
-print('Enter first name:',first)
-print('Enter last name:',last)
+print('Enter first name: ',first)
+print('Enter last name: ',last)
 
-print ('Hi,', first, last)
-    
-    
-    
+print (f'Hi,{first} {last}')
+
     
     
     
